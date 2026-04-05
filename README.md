@@ -45,7 +45,7 @@ The following tools and technologies were used in this project:
 * Discounts are applied consistently without extreme variations
 * Sales show a declining trend over the years (2023–2025)
 
- ![Dashboard](RSA-Dashboard)
+ ![Dashboard](RSA-Dashboard.png)
  
 ## 💡Recommendations
 
