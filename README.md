@@ -16,7 +16,7 @@
 ## 🔍 Project Overview
 
 * The Retail Sales Analysis project focuses on analyzing sales data to understand customer behavior, product performance, and regional trends.
-8 An interactive dashboard is created to visualize key metrics such as total sales, units sold, discounts, and payment methods, enabling data-driven decision-making.
+* An interactive dashboard is created to visualize key metrics such as total sales, units sold, discounts, and payment methods, enabling data-driven decision-making.
 
 ## 🗄️ Database Description
 
